@@ -1,2 +1,1 @@
-# VHHKOJ
-POIUCVJ'BHGKKH
+print ('ыа негрыэ')
